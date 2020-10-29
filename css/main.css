@@ -1,0 +1,127 @@
+body{
+  padding:0;
+  margin: 0;
+}
+h1 {
+  font-family: 'slackey',cursive;
+  color:white;
+  text-align:left;
+  size: 10px;
+}
+.header {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding-bottom: 20px;
+ 
+}
+body.home{
+  padding:30px left 30px right;
+  margin: 20px;
+  margin-top:0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+  background-image:url(https://userscontent2.emaze.com/images/1e5cb23e-7f3c-4302-a30c-5957f6d778d6/9ce80ecb034b7194819f84b2fa25f78e.jpg);
+  background-position: center center;
+  flex-wrap: wrap;
+  padding:3px;
+}
+nav ul {
+  display: flex;
+  background-color:#c97e14;
+  padding: 10px;
+  border: black;  
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+}
+nav ul li {
+  list-style-type: none;
+  display:flex;
+  float:right;
+}
+nav {
+  border: black;
+  /* display: flexbox;
+  position: static; */
+  margin: auto;
+  padding: 10px;
+
+}
+a:hover {
+  background-color: aquamarine;
+}
+.container {
+  position: relative;
+  width:90%;
+  display: grid;
+  display:flex;
+  flex-shrink:2;
+}
+
+body.about{
+  background-color:#10929c;
+  padding: 30px;
+  font-size: 20px;
+}
+body.contact{
+  background-color: #10929c;
+  padding: 30px;
+
+}
+body.confidence{
+  background-color: white;
+  padding: 30px;
+  font-size: 20px;
+
+}
+.half-width{
+  /*float:right;*/
+  padding-top: 50px;
+}
+.half-width1{
+  /*float:right;*/
+  margin-top: -405px;
+  padding-left: 400px;
+}
+.half-width2{
+  /*float:right;*/
+  margin-top: -405px;
+  padding-left: 800px;
+}
+.half-width3{
+  /*float:right;*/
+  margin-top: 105px;
+  padding-left: 20px;
+}
+.half-width4{
+  /*float:right;*/
+  margin-top: -405px;
+  padding-left: 400px;
+}
+.half-width5{
+  /*float:right;*/
+  margin-top: -405px;
+  padding-left: 800px;
+}
+.half-width6{
+  /*float:right;*/
+  margin-top: 105px;
+  padding-left:20px;
+}
+.half-width7{
+  /*float:right;*/
+  margin-top: -405px;
+  padding-left: 400px;
+}
+.half-width8{
+  /*float:right;*/
+  margin-top: -405px;
+  padding-left: 800px;
+}
