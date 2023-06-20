@@ -1,2 +1,2 @@
 # navi
-This is a proje
+This is a projec
