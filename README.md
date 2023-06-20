@@ -1,2 +1,2 @@
 # navi
-This is 
+This is a
