@@ -1,2 +1,2 @@
 # navi
-This is a project that wor
+This is a project that work
