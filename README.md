@@ -1,2 +1,2 @@
 # navi
-This is a project that allow
+This is a project that allows
