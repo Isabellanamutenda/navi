@@ -1,2 +1,2 @@
 # navi
-This is a project that allows one to be able to create 
+This is a project that allows one to be able to create  
